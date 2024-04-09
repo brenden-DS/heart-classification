@@ -1,4 +1,4 @@
-# Heart Disease Prediction Model
+# Heart Attack Prediction Model
 
 This repository contains a machine learning model for predicting heart disease based on a dataset of various health and lifestyle factors. The model uses supervised learning techniques to analyze the dataset and make predictions about the likelihood of an individual having heart disease.
 
